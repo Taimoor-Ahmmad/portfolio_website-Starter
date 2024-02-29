@@ -46,7 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hey fellow folks,I am Taimoor! As a student of IT and a front-end developer I am passionate about learning new skills,and have understanding of front end library like react.js and much more.
+        Hi! I am Taimoor Ahmad, A software engieer with keen interests in websites development using MERN Stack.
+        Passionate about learning new things like artificial intelligence and blockchain.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

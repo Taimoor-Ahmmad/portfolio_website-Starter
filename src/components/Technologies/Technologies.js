@@ -16,10 +16,12 @@ const Technologies = () =>  (
         <ListItem>
           <DiReact size='3rem'/>
           <ListContainer>
-          <ListTitle>Front-end</ListTitle>
+          <ListTitle>MERN Stack</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            REACT Js<br/>
+            NEXT Js<br/>
+            Mongo db<br/>
+            PostgreSQL<br/>
           </ListParagraph>
         </ListContainer>
         </ListItem>
@@ -31,6 +33,8 @@ const Technologies = () =>  (
           <ListParagraph>
            Typescript <br />
            Javascript <br />
+           Python<br/>
+           C++<br/>
           </ListParagraph>
         </ListContainer>
         </ListItem>
@@ -40,8 +44,9 @@ const Technologies = () =>  (
           <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            photoshop and FIGMA
+            Photoshop<br/>
+            Figma<br/>
+            Canva<br/>
           </ListParagraph>
         </ListContainer>
         </ListItem>

@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Passed my matriculation exams', },
-  { year: 2019, text: 'Passed my intermediate in computer science', },
-  { year: 2020, text: 'started learning AI from PIAIC', },
-  // { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started learning web development', },
+  { year: 2017, text: 'passed matriculation with 96 percentage with science majors', },
+  { year: 2019, text: 'Passed intermediate with 92 percentage with computer sciences', },
+  { year: 2020, text: 'started diploma in Artificial Inetlligence from PIAIC', },
+  { year: 2020, text: 'Started my degree in Information and technology as well', },
 ];
