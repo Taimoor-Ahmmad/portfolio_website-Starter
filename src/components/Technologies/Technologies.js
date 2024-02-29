@@ -10,7 +10,7 @@ const Technologies = () =>  (
       <br />
       <SectionTitle>Technologies</SectionTitle>
       <SectionText>
-        I have worked in the range of Technologies in the front end world.
+        I have worked in the range of Technologies in the world of website.
       </SectionText>
       <List>
         <ListItem>
@@ -41,7 +41,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            photoshop
+            photoshop and FIGMA
           </ListParagraph>
         </ListContainer>
         </ListItem>
